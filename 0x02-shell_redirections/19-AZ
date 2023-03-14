@@ -1,0 +1,2 @@
+#!/bin/bash
+read myvar | tr -c ac ze
