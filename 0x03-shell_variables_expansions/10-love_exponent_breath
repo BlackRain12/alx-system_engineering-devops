@@ -1,0 +1,5 @@
+#!/bin/bash
+export BREADTH=4
+export LOVE=3
+export answer=$BREADTH * $LOVE * $LOVE *$LOVE
+echo answer
