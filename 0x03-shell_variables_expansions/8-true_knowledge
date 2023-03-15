@@ -1,0 +1,4 @@
+ #!/bin/bash
+export TRUEKNOWLEDGE=128
+echo $TRUEKNOWLEDGE
+echo " "
